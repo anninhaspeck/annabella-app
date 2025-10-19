@@ -33,5 +33,6 @@ O design segue o estilo **AnnaBella Universe**: elegante, intuitivo, pastel e re
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
+
    ```bash
-   git clone https://github.com/anninhaspeck/annabella-app.git
+   git clone https://github.com/anninhaspeck/annabella-app
